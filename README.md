@@ -1,3 +1,5 @@
+<img width="2000" height="2000" alt="NGOPI" src="https://github.com/user-attachments/assets/f3f74362-c27f-4e1f-926f-b58ce421f1bd" />
+silahkan scan link monitoring online payoad
 # NGOPI
 Nilai Gross Operational  Payload Indicator
 
