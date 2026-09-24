@@ -1,1 +1,1 @@
-1.0.2|link
+1.0.2|https://github.com/AlGhaniAqilla/NGOPI/raw/refs/heads/main/Firmware/versi_2.bin
